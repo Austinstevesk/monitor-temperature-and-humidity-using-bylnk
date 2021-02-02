@@ -37,7 +37,7 @@ char auth[] = "anditsallbecause";
 // Your WiFi credentials.
 // Set password to "" for open networks.
 char ssid[] = "samplessid";
-char pass[] = "yourdaddydontrockandroll";
+char pass[] = "samplepassword";
  
 #define DHTPIN D6          // What digital pin we're connected to
  
